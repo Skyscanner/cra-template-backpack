@@ -1,0 +1,26 @@
+{
+  "name": "@skyscanner/cra-template-backpack",
+  "version": "0.0.1",
+  "keywords": [
+    "react",
+    "backpack-react-template",
+    "template"
+  ],
+  "description": "The base template for Backpack React Scripts.",
+  "main": "template.json",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/skyscanner/backpck-react-scripts.git",
+    "directory": "packages/cra-template"
+  },
+  "homepage": "https://github.com/skyscanner/backpck-react-scripts#readme",
+  "author": "Backpack Design System <backpack@skyscanner.net>",
+  "license": "MIT",
+  "engines": {
+    "node": ">=8"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ]
+}
