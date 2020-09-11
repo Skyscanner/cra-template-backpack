@@ -11,7 +11,7 @@ The template is to be used within the standard `create-react-app` command:
 ### With Backpack React Scripts
 
 ```bash
-npx create-react-app@3.4.1 my-app --scripts-version=@skyscanner/backpack-react-scripts --template @skyscanner/backpack --use-npm
+npx create-react-app my-app --scripts-version=@skyscanner/backpack-react-scripts --template @skyscanner/backpack --use-npm
 ```
 
 # More information

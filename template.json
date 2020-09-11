@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "bpk-component-button": "^3.2.30",
-    "bpk-component-code": "^2.0.51",
-    "bpk-component-text": "^3.0.19",
-    "bpk-mixins": "^19.1.20",
-    "bpk-stylesheets": "^6.0.18"
+    "bpk-component-button": "^3.2.58",
+    "bpk-component-code": "^2.0.79",
+    "bpk-component-text": "^3.1.14",
+    "bpk-mixins": "^20.0.8",
+    "bpk-stylesheets": "^6.0.46"
   }
 }
