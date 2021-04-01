@@ -1,11 +1,11 @@
 {
   "package": {
     "dependencies": {
-      "bpk-component-button": "^3.3.21",
-      "bpk-component-code": "^2.0.105",
-      "bpk-component-text": "^3.1.40",
-      "bpk-mixins": "^20.1.22",
-      "bpk-stylesheets": "^6.0.72",
+      "bpk-component-button": "^3.3.28",
+      "bpk-component-code": "^2.0.111",
+      "bpk-component-text": "^3.1.47",
+      "bpk-mixins": "^20.1.28",
+      "bpk-stylesheets": "^6.0.78",
       "react": "^16.4.2",
       "react-dom": "^16.4.2"
     }
