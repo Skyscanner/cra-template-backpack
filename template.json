@@ -1,13 +1,11 @@
 {
   "package": {
     "dependencies": {
-      "bpk-component-button": "^6.0.1",
-      "bpk-component-code": "^3.1.3",
-      "bpk-component-text": "^6.1.4",
-      "bpk-mixins": "^28.0.0",
-      "bpk-stylesheets": "^7.1.26",
-      "react": "^16.4.2",
-      "react-dom": "^16.4.2"
+      "@skyscanner/backpack-web": "^15.1.0",
+      "bpk-mixins": "^36.1.1",
+      "bpk-stylesheets": "^7.2.16",
+      "react": "^17.0.0",
+      "react-dom": "^17.0.0"
     }
   }
 }
