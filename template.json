@@ -1,7 +1,6 @@
 {
   "package": {
     "dependencies": {
-      "@skyscanner/backpack-react-scripts": "10.0.4",
       "@skyscanner/backpack-web": "^15.1.0",
       "bpk-mixins": "^36.1.1",
       "bpk-stylesheets": "^7.2.16",
